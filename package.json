@@ -1,0 +1,23 @@
+{
+  "name": "nodekb",
+  "version": "1.0.0",
+  "description": "Simple knowledge base app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmwhynot/node_express_t.git"
+  },
+  "author": "David Whynot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidmwhynot/node_express_t/issues"
+  },
+  "homepage": "https://github.com/davidmwhynot/node_express_t#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "pug": "^2.0.0-rc.4"
+  }
+}
